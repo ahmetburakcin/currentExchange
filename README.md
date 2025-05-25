@@ -28,7 +28,7 @@ Exchange Rate Tracker is a modern and user-friendly desktop application built wi
 
 2. Run the app:
     ```bash
-    python exchange_app.py
+    python main.py
     ```
 
 ## 🔧 API Used
